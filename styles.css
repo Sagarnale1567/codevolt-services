@@ -99,7 +99,7 @@ body {
     color: #333;
 }
 
-.login-container, .logout-container,  .contact-container {
+.login-container, .logout-container,  .contact-container, .register-container {
     width: 100%;
     max-width: 400px;
     margin: 50px auto;
