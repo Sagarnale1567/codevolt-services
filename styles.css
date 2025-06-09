@@ -5,14 +5,14 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
-
+@media (max-width: 768px) {
 header {
     background: #007bff;
     color: white;
     padding: 15px 20px;
     text-align: center;
 }
-
+}
 nav ul {
     list-style: none;
     padding: 0;
